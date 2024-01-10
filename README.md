@@ -4,6 +4,8 @@ Simple tweak that removes module background and adds a border, just like [CoolCC
 
 Available on my [repo](https://donato-fiore.github.io/repo/)
 
+***Disclaimer**: I am aware this code is very sketch, but if it works, it works.*
+
 ## How to build:
 ```
 git clone https://github.com/donato-fiore/CCBorder.git && cd CCBorder
