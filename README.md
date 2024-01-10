@@ -2,6 +2,8 @@
 # CCBorder
 Simple tweak that removes module background and adds a border, just like [CoolCC](http://cydia.saurik.com/package/com.4nni3.coolcc/)!
 
+Available on my [repo](https://donato-fiore.github.io/repo/)
+
 ## How to build:
 ```
 git clone https://github.com/donato-fiore/CCBorder.git && cd CCBorder
